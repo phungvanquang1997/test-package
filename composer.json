@@ -1,5 +1,6 @@
 {
     "name": "quangpv/simple",
     "description": "test package",
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
