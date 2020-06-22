@@ -10,4 +10,5 @@
             "QuangPv\\Test\\": "src/"
         }
     },
+    "minimum-stability": "dev",
 }
