@@ -1,6 +1,13 @@
 {
     "name": "quangpv/simple",
     "description": "test package",
-    "require": {},
-    "license": "MIT"
+    "require": {
+    	 "php": "^5.5.9|^7.0",
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "QuangPv\\Test\\": "src/"
+        }
+    },
 }
