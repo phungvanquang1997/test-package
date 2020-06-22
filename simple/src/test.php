@@ -2,4 +2,9 @@
 
 namespace QuangPv\Test;
 
-echo 'hello';
+class Test {
+	public function __construct()
+	{
+		echo 'hehe';
+	}
+}
