@@ -1,15 +1,8 @@
 {
-    "name": "quangpv/simple",
+    "name": "quangpv/simp1e",
     "description": "test package",
-    "require": {
-    	 "php": "^5.5.9|^7.0"
-    },
+    "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "QuangPv\\Test\\": "src/"
-        }
-    },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "require": {}
 }
