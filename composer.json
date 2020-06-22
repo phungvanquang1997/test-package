@@ -10,6 +10,6 @@
             "QuangPv\\Test\\": "src/"
         }
     },
-    "prefer-stable": true,
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
