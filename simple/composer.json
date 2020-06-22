@@ -1,8 +1,0 @@
-{
-    "name": "quangpv/simp1e",
-    "description": "test package",
-    "type": "library",
-    "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {}
-}
