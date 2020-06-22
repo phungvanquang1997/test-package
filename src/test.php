@@ -1,6 +1,6 @@
 <?php 
 
-namespace QuangPv\Test;
+namespace QuangPv;
 
 class Test {
 	public function __construct()
