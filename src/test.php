@@ -1,6 +1,6 @@
 <?php 
 
-namespace abc;
+namespace TestPackage;
 
 class Test {
 	public function __construct()
